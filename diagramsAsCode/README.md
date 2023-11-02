@@ -95,7 +95,7 @@ To draw a network diagram with Software AG product icons, you must import the UR
 
 Copy and paste above text to your diagram code. (The diagram generator downloads the icons and store them into local folder. You can delete the temporary `*.tmp` files.)
 
-Now, we want to *draw* a diagram with API Gateway deployment in typical network environment with *Green* and *Red* zones. The Treat Protection (= API Gateway Standard Edition) is deployed in *Red* zone. [mingrammer](https://diagrams.mingrammer.com/) has many icons (Firewall, Load Balancers, Sub-Network, ...) which we can use to increase the diagram.
+Now, we want to *draw* a diagram with API Gateway deployment in typical network environment with *Green* and *Red* zones. The Threat Protection (= API Gateway Standard Edition) is deployed in *Red* zone. [mingrammer](https://diagrams.mingrammer.com/) has many icons (Firewall, Load Balancers, Sub-Network, ...) which we can use to increase the diagram.
 
 ![API Gateway and Threat Protection in Green and Red Zones](./diagrams/apigw-tp.png)
 
