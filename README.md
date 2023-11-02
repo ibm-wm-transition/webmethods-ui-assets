@@ -35,4 +35,4 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ## Product Icons @ Diagrams as Code
 
-You can use the [product icons](./product-icons/) for *Diagrams as Code*. This allows you to edit and maintain the diagram as text (code). The following [article](./diagramsAsCode/README.md) use [mingrammer](https://diagrams.mingrammer.com/) as a tool and explains how to draw network diagrams with Software AG product icons.
+You can use the [product icons](./product-icons/256x256) for *Diagrams as Code*. This allows you to edit and maintain the diagram as text (code). The following [article](./diagramsAsCode/README.md) use [mingrammer](https://diagrams.mingrammer.com/) as a tool and explains how to draw network diagrams with Software AG product icons.

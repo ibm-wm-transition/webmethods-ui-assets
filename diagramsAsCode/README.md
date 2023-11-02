@@ -1,6 +1,6 @@
 # Software AG Product Icons @ Diagrams as Code
 
-We want to use the Software AG product icons in folder [./product-icons](./product-icons) to draw network diagrams as (text) code with [mingrammer](https://diagrams.mingrammer.com/). There are a lot of advantages to do this:
+We want to use the Software AG product icons in folder [./product-icons](./product-icons/256x256) to draw network diagrams as (text) code with [mingrammer](https://diagrams.mingrammer.com/). There are a lot of advantages to do this:
 
 * All icons has the same size.
 * You don't need to layout the diagram.
