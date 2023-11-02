@@ -1,4 +1,4 @@
-# webmethods-ui-assets
+# Software AG UI Assets
 
 ----
 These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
@@ -7,7 +7,7 @@ The content of this repository, consisting of icons and images, is copyrighted b
 
 Find the license text here:
 
-https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+[https://creativecommons.org/licenses/by-sa/4.0/legalcode.en](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en)
 
 You are free to:
 
@@ -31,4 +31,8 @@ You do not have to comply with the license for elements of the material in the p
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-https://creativecommons.org/licenses/by-sa/4.0/deed.en
+[https://creativecommons.org/licenses/by-sa/4.0/deed.en](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+## Product Icons @ Diagrams as Code
+
+You can use the [product icons](./product-icons/) for *Diagrams as Code*. This allows you to edit and maintain the diagram as text (code). The following [article](./diagramsAsCode/README.md) use [mingrammer](https://diagrams.mingrammer.com/) as a tool and explains how to draw network diagrams with Software AG product icons.
